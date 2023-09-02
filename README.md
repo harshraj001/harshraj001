@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 8.<br>📚 I'm currently learning frontend.<br>🎯 Goals: Happy Life<br>🎲 Fun fact: Above goal is not possible in corporate job.</p>
+<p align="left">✨ Creating bugs since 2015.<br>📚 I'm currently learning frontend.<br>🎯 Goals: Happy Life<br>🎲 Fun fact: Above goal is not possible in corporate job.</p>
 
 ###
 
